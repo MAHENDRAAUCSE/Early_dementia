@@ -1,0 +1,10 @@
+# Create .gitignore file
+@"
+node_modules/
+.env
+npm-debug.log*
+.DS_Store
+dist/
+build/
+coverage/
+"@
