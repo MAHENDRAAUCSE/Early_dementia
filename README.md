@@ -105,4 +105,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-For support and questions, please contact the Detect Neural Dementia team.
+For support and questions, please contact the Guardian Medics team.
+(+91 9885325680)
